@@ -59,7 +59,7 @@ TEXTS = {
 
 # 1‑B. Ссылки Tribute (заполняем своими)
 PAY_LINKS = {
-    "training": "https://tribute.tg/pay/XXXXX",   # ← замените
+    "training": "https://t.me/tribute/app?startapp=suIw",   # ← замените
     "quit": "https://tribute.tg/pay/YYYYY",
     "reading": "https://tribute.tg/pay/ZZZZZ",
 }
